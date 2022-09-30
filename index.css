@@ -1,18 +1,34 @@
 body{
+    margin: 25px;
     background-color: #07002f;
 }
 
 .titol {
+    font-family: "Courier New", monospace;
     font-size: 160%; 
     color: white;
 }
 
 .drets {
+    font-family: "Courier New", monospace;
     font-size:90%; 
     color:white;
 }
 
 .idiomes {
-    font-size:90%; 
+    font-family: "Courier New", monospace;
+    font-size:100%; 
+    color:white;
+}
+
+.enllaç {
+    font-family: "Courier New", monospace;
+    font-size: 160%; 
+    color: rgb(0, 119, 255);
+}
+
+.text {
+    font-size:120%; 
+    font-family: "Courier New", monospace;
     color:white;
 }
