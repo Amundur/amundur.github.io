@@ -32,3 +32,14 @@ body{
     font-family: "Courier New", monospace;
     color:white;
 }
+
+.pagina {
+    font-family: "Courier New", monospace;
+    font-size: 120%; 
+    color: rgb(216, 216, 216);
+    margin-left: 30px;
+}
+
+.nav {
+    
+}
